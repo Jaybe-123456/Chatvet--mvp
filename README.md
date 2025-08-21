@@ -1,18 +1,18 @@
- 🐾 VetConnect • ChatVet MVP
+# 🐾 ChatVet MVP
 
- 🌍 Vision
-VetConnect MIL fights **veterinary misinformation** by merging **Media & Information Literacy (MIL)** with AI-driven veterinary knowledge.  
-We align with **UNESCO’s MIL Agenda** + **One Health** (animal, human, environment).
+ChatVet is a Media and Information Literacy (MIL) tool for farmers, tackling veterinary misinformation with AI-powered chatbot responses.
 
-🚀 Features
-- 🤖 Chatbot (English + Swahili)
-- ❌ Misinformation detection
-- 📊 Ambassador dashboard
-- 🌐 Mobile-first design
+## 🚀 Features
+- ✅ Detects and corrects common myths (e.g., kerosene for calf diarrhea)
+- ✅ Provides safe, verified veterinary advice
+- ✅ Gamified quizzes to improve farmer literacy
+- ✅ Simple MVP demo built with React + Vite + Tailwind
 
- 🛠️ Tech
-React + Vite + Tailwind + Recharts
-
- 🚀 Deploy
+## 📂 Project Structure## 🌍 Deployment
+Built for **Netlify**:
 - Build command: `npm run build`
-- Publish dir: `dist`
+- Publish directory: `dist`
+
+## 🎯 Hackathon Alignment
+- **UNESCO MIL Agenda** → extending media literacy to animal health.
+- **One Health** → linking human, animal, and environmental wellbeing.
