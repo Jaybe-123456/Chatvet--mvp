@@ -1,0 +1,16 @@
+[
+  {
+    "topic": "Calf diarrhea remedy",
+    "misinformation": "Use kerosene and salt to treat calf diarrhea",
+    "verified_answer": "Unsafe. The correct treatment is oral rehydration with electrolytes and consulting a veterinarian if symptoms persist.",
+    "farmer_friendly": "❌ Don’t use kerosene. ✅ Give clean water with salts and call a vet if it continues.",
+    "source": "FAO Animal Health Manual 2021"
+  },
+  {
+    "topic": "Rabies treatment",
+    "misinformation": "Herbal teas or holy water can cure rabies",
+    "verified_answer": "There is NO cure for rabies once symptoms appear. The only prevention is vaccination.",
+    "farmer_friendly": "Rabies can’t be cured by herbs. Only vaccination prevents it.",
+    "source": "WHO Rabies Fact Sheet 2022"
+  }
+]
