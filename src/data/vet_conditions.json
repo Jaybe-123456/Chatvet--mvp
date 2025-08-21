@@ -1,0 +1,152 @@
+[
+  {
+    "species": "cattle",
+    "condition": "calf diarrhea (neonatal scours)",
+    "aka": ["calf scours", "diarrhea in calves"],
+    "common_triggers": ["rotavirus", "coronavirus", "ETEC", "crypto", "poor colostrum", "dirty pens"],
+    "key_signs": ["watery diarrhea", "dehydration", "sunken eyes", "weakness", "cold ears", "acidotic smell"],
+    "red_flags": ["severe depression", "unable to stand", "bloody diarrhea", "no suckle", "collapse"],
+    "differentials": ["coccidiosis (older calves)", "salmonellosis", "nutritional diarrhea"],
+    "field_diagnosis": [
+      "Check dehydration (skin tent, sunken eyes).",
+      "Take temperature (fever suggests sepsis/salmonella; low temp in severe dehydration).",
+      "Age-of-onset hints etiology (≤3d ETEC, 5–14d rota/corona, ≥7d crypto)."
+    ],
+    "recommended_tests": ["fecal antigen kits (rota/corona/ETEC)", "fecal float for crypto/coccidia", "culture if outbreaks"],
+    "treatment_firstline": [
+      "Oral rehydration with electrolytes (small, frequent feeds).",
+      "Continue milk in smaller, more frequent meals (do not starve)."
+    ],
+    "treatment_adjunct": [
+      "NSAIDs for pain/enterotoxemia risk per vet.",
+      "Antibiotics only if systemic illness (fever, blood, severe depression) per vet judgement."
+    ],
+    "dosing_notes": [
+      "ORS 4–6 L/day divided; adjust to dehydration severity.",
+      "Withhold blanket antibiotics in simple viral/crypto cases."
+    ],
+    "supportive_care": [
+      "Warmth, dry bedding, clean teats/bottles.",
+      "Isolate sick calves; strict hygiene to stop pen-to-pen spread."
+    ],
+    "prevention": [
+      "Colostrum: ≥10% BW within 6h; test BRIX.",
+      "Clean calving pens; separate sick from newborns.",
+      "Vaccinate dams (rota/corona/ETEC) per label and local guidance."
+    ],
+    "sources": [
+      "FAO Calf Diarrhoea Guidance 2021",
+      "OIE Neonatal Calf Diarrhoea factsheet",
+      "J Dairy Sci reviews 2019–2022"
+    ]
+  },
+  {
+    "species": "goat",
+    "condition": "gastrointestinal nematodes (worms)",
+    "aka": ["helminths", "haemonchosis", "barber pole"],
+    "common_triggers": ["overstocking", "wet pasture", "no rotation", "anthelmintic resistance"],
+    "key_signs": ["pale eyelids (FAMACHA 4–5)", "bottle jaw", "weight loss", "poor coat", "diarrhea (varies)"],
+    "red_flags": ["recumbency", "PCV < 15%", "black tarry feces with collapse"],
+    "differentials": ["coccidiosis (kids)", "nutritional deficiency", "Johne’s (chronic)"],
+    "field_diagnosis": [
+      "FAMACHA score 1–5 (Haemonchus).",
+      "Body condition score + diarrhea check.",
+      "Targeted selective treatment (TST) > treat high scores only."
+    ],
+    "recommended_tests": ["fecal egg count (McMaster)", "larval culture if resistance suspected"],
+    "treatment_firstline": [
+      "Use *approved* anthelmintic per local guidelines.",
+      "Rotate classes ONLY based on FEC reduction tests."
+    ],
+    "treatment_adjunct": [
+      "Supportive iron/protein if anemic (per vet).",
+      "Pasture rotation; avoid grazing to the nub."
+    ],
+    "dosing_notes": [
+      "Goats often require higher mg/kg than sheep; follow label/vet.",
+      "Avoid under-dosing (drives resistance)."
+    ],
+    "supportive_care": ["Clean water, good nutrition, shade."],
+    "prevention": [
+      "TST using FAMACHA.",
+      "Refugia strategy; don’t treat whole herd blindly."
+    ],
+    "sources": [
+      "OIE Helminth Control 2020",
+      "FAO AMR in Livestock 2020",
+      "Prev Vet Med reviews 2018–2023"
+    ]
+  },
+  {
+    "species": "cattle",
+    "condition": "clinical mastitis",
+    "aka": ["udder infection"],
+    "common_triggers": ["teat end damage", "dirty bedding", "milking hygiene failures"],
+    "key_signs": ["clots/flakes in milk", "swollen hot quarter", "cow discomfort", "decreased yield"],
+    "red_flags": ["toxic mastitis (fever, dehydration, cold ears)", "systemic collapse"],
+    "differentials": ["traumatic swelling", "edema postpartum", "teat canal obstruction"],
+    "field_diagnosis": [
+      "Strip cup/foremilk check.",
+      "California Mastitis Test (CMT) for subclinical.",
+      "Culture if recurrent/herd outbreaks."
+    ],
+    "recommended_tests": ["milk culture + sensitivity", "SCC monitoring"],
+    "treatment_firstline": [
+      "Intramammary antibiotic per culture/local guidelines.",
+      "Frequent stripping of affected quarter.",
+      "NSAIDs for pain/inflammation per vet."
+    ],
+    "treatment_adjunct": [
+      "Fluids and systemic therapy in toxic cases.",
+      "Cull chronic high-SCC repeat offenders per policy."
+    ],
+    "dosing_notes": [
+      "Follow product label/withdrawal times strictly.",
+      "Review protocols with herd vet."
+    ],
+    "supportive_care": ["Clean, dry bedding; post-milking teat dip."],
+    "prevention": [
+      "Pre-/post-dip, unit hygiene, dry-cow therapy.",
+      "Teat condition scoring; fix liners/vacuum issues."
+    ],
+    "sources": [
+      "NMC Mastitis Guidelines",
+      "J Dairy Sci consensus 2019",
+      "FAO Dairy Hygiene Manuals"
+    ]
+  },
+  {
+    "species": "dogs",
+    "condition": "rabies exposure (bite management)",
+    "aka": ["suspected rabies bite"],
+    "common_triggers": ["bite from unvaccinated dog", "wildlife contact"],
+    "key_signs": ["(exposure scenario; patient may be healthy)"],
+    "red_flags": ["neurologic signs in biter animal", "unprovoked attack", "salivation, aggression"],
+    "differentials": ["non-rabies bite infections"],
+    "field_diagnosis": [
+      "Immediate first aid: 15 min wash with soap and running water.",
+      "Assess vaccination status of biting animal."
+    ],
+    "recommended_tests": ["lab confirmation in animal (post-mortem); none for live humans/animals at point of care"],
+    "treatment_firstline": [
+      "Post-exposure prophylaxis pathway per national guidelines.",
+      "Vaccination schedule initiation immediately if indicated."
+    ],
+    "treatment_adjunct": [
+      "Wound care; antibiotics/tetanus for humans per protocols."
+    ],
+    "dosing_notes": [
+      "Follow national/WHO schedules; do not delay PEP."
+    ],
+    "supportive_care": ["Observation/quarantine of biting animal per law."],
+    "prevention": [
+      "Routine dog vaccination >70% coverage.",
+      "Avoid stray contact; report suspect animals."
+    ],
+    "sources": [
+      "WHO Rabies Guide 2023",
+      "OIE Rabies Control",
+      "CDC Rabies PEP"
+    ]
+  }
+    ]
